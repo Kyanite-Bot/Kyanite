@@ -1647,6 +1647,18 @@ node_modules/discord.js/typings/index.d.mts
 node_modules/discord.js/typings/index.d.ts
 node_modules/discord.js/typings/rawDataTypes.d.mts
 node_modules/discord.js/typings/rawDataTypes.d.ts
+node_modules/dotenv/CHANGELOG.md
+node_modules/dotenv/config.d.ts
+node_modules/dotenv/config.js
+node_modules/dotenv/LICENSE
+node_modules/dotenv/package.json
+node_modules/dotenv/README-es.md
+node_modules/dotenv/README.md
+node_modules/dotenv/SECURITY.md
+node_modules/dotenv/lib/cli-options.js
+node_modules/dotenv/lib/env-options.js
+node_modules/dotenv/lib/main.d.ts
+node_modules/dotenv/lib/main.js
 node_modules/fast-deep-equal/index.d.ts
 node_modules/fast-deep-equal/index.js
 node_modules/fast-deep-equal/LICENSE
@@ -3021,4 +3033,4 @@ node_modules/ws/lib/subprotocol.js
 node_modules/ws/lib/validation.js
 node_modules/ws/lib/websocket-server.js
 node_modules/ws/lib/websocket.js
-sensitive_info/config.json
+private/config.json
